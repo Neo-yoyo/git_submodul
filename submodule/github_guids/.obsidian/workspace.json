@@ -141,13 +141,21 @@
                 "file": "Новый файл.md"
               }
             }
+          },
+          {
+            "id": "92e3ca8748e936b9",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,7 +167,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "b4c5ce8d3395e3de",
+  "active": "072b456e971b00a8",
   "lastOpenFiles": [
     "GitHub_Actions.md",
     "Новый файл.md",
